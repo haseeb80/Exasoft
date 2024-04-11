@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Exsoft",
+    "\\Exsoft\\Exsoft"
   ],
+  "SelectedNode": "\\Exsoft\\Exsoft\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
