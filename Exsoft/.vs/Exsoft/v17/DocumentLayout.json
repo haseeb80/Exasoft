@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2FE21AE4-EC86-4D87-B093-9443BBE4B2D7}|Exsoft\\Exsoft.csproj|c:\\projects\\girhub\\exasoft\\exsoft\\exsoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FE21AE4-EC86-4D87-B093-9443BBE4B2D7}|Exsoft\\Exsoft.csproj|solutionrelative:exsoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FE21AE4-EC86-4D87-B093-9443BBE4B2D7}|Exsoft\\Exsoft.csproj|c:\\projects\\girhub\\exasoft\\exsoft\\exsoft\\bin\\debug\\numbers.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2FE21AE4-EC86-4D87-B093-9443BBE4B2D7}|Exsoft\\Exsoft.csproj|solutionrelative:exsoft\\bin\\debug\\numbers.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,26 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "numbers.txt",
-              "DocumentMoniker": "C:\\Projects\\GirHub\\Exasoft\\Exsoft\\Exsoft\\bin\\Debug\\numbers.txt",
-              "RelativeDocumentMoniker": "Exsoft\\bin\\Debug\\numbers.txt",
-              "ToolTip": "C:\\Projects\\GirHub\\Exasoft\\Exsoft\\Exsoft\\bin\\Debug\\numbers.txt",
-              "RelativeToolTip": "Exsoft\\bin\\Debug\\numbers.txt",
-              "ViewState": "AQIAAPcOAAAAAAAAAAAhwCIPAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-11T15:22:23.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\GirHub\\Exasoft\\Exsoft\\Exsoft\\Program.cs",
               "RelativeDocumentMoniker": "Exsoft\\Program.cs",
               "ToolTip": "C:\\Projects\\GirHub\\Exasoft\\Exsoft\\Exsoft\\Program.cs",
               "RelativeToolTip": "Exsoft\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T10:52:13.214Z",
               "EditorCaption": ""

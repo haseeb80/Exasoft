@@ -11,7 +11,11 @@ class Program
         string filePath = Path.Combine(Environment.CurrentDirectory, "numbers.txt");
 
         if (!File.Exists(filePath))
+        {
+            Console.WriteLine("numbers file not found in your bin directory.");
+            Console.ReadLine();
             return;
+        }
 
         // Read all lines from the file
         string[] lines = File.ReadAllLines(filePath);
