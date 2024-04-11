@@ -3,3 +3,13 @@
 ################################################################################
 
 *.vsidx
+/Exsoft/Exsoft/bin/Debug/Exsoft.exe
+/Exsoft/Exsoft/bin/Debug/Exsoft.exe.config
+/Exsoft/Exsoft/bin/Debug/Exsoft.pdb
+/Exsoft/Exsoft/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+/Exsoft/Exsoft/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/Exsoft/Exsoft/obj/Debug/Exsoft.csproj.AssemblyReference.cache
+/Exsoft/Exsoft/obj/Debug/Exsoft.csproj.CoreCompileInputs.cache
+/Exsoft/Exsoft/obj/Debug/Exsoft.csproj.FileListAbsolute.txt
+/Exsoft/Exsoft/obj/Debug/Exsoft.exe
+/Exsoft/Exsoft/obj/Debug/Exsoft.pdb
